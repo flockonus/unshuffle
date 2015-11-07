@@ -9,9 +9,10 @@ Make an app that gives great quality hints on pkmn shuffle for android.
 - x .. even interact with drawn stuff
 - let click pass through proper window
 - capture (sample) screen frames as some pixel map
-
 - make sense of screen (stage, enemy, team, bars)
 - create AI logic
+- controls activity (debug, on/off)
+
 
 ## references
 
