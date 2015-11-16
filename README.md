@@ -25,3 +25,6 @@ http://developer.android.com/reference/android/media/projection/MediaProjection.
 https://android.googlesource.com/platform/development/+/lollipop-release/samples/ApiDemos/src/com/example/android/apis/media/projection/MediaProjectionDemo.java
 https://android.googlesource.com/platform/development/+/lollipop-release/samples/ApiDemos/res/layout/media_projection.xml?autodive=0%2F%2F%2F%2F
 
+read image
+https://android.googlesource.com/platform/cts/+/kitkat-release/tests/tests/hardware/src/android/hardware/camera2/cts/ImageReaderTest.java
+http://stackoverflow.com/questions/26673127/android-imagereader-acquirelatestimage-returns-invalid-jpg
